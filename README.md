@@ -10,3 +10,7 @@ GTKMM-4.0 example on Visual studio 2019 + Vcpkg + Cmake + PkgConfig setting
 7. Install vcpkg-pkgconfig-get-modules `vcpkg install vcpkg-pkgconfig-get-modules`
 8. git clone this project from visual studio
 9. run program
+
+### Preview
+
+![app](preview.PNG)
