@@ -3,8 +3,11 @@
 ### <p color=red>WARNING</p>
 
 NEVER EXPECT EVERYTHING WOULD WORK AS SAME AS GNOME ENVIRONMENT
+
 OTHER PLATFORMS ARE UNSTABLE (crash often, runtime error that says "something is not initialized", bugs in example codes - drag and drop doesn't work properly and duplicate garbage icons that won't be removed until you manually kill that process)
+
 ALSO NEVER THINK GTKMM AS QT'S ALTERNATIVE. QT HANDLES CROSS-PLATFORM ISSUES WAY BETTER THAN QTKMM.
+
 JUST THINK GTKMM AS GUI. NOTHING ELSE.
 
 GTKMM-4.0 example on Visual studio 2019 + Vcpkg + Cmake + PkgConfig setting
